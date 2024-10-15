@@ -14,8 +14,6 @@ optimization of those processes
 
 [chris@sulfrian.com](mailto:chris@sulfrian.com) // +1 (970) 218-3254 // from Erie, Colorado
 
----
-
 ## Professional Experience
 
 ### Python/Django Developer - Vapor Propulsion Labs (VPL), _November 2022 - Present_
