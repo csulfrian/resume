@@ -17,10 +17,10 @@ jobs:
       - name: Build PDF from Markdown                       # (3)
         uses: BaileyJM02/markdown-to-pdf@v1
         with:
-          input_dir: .
-          output_dir: out
+          input_dir: ./
+          output_dir: ./
       - name: Rename pdf
-        run: cp out/README.pdf ./christopher_sulfrian_resume.pdf
+        run: cp ./README.pdf ./christopher_sulfrian_resume.pdf
       - name: Create Release                                # (4)
         id: create_release
         uses: actions/create-release@v1
