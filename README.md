@@ -1,8 +1,9 @@
-[![](https://img.shields.io/badge/PDF-Download-1abc9c?style=for-the-badge)](https://github.com/csulfrian/resume/releases/latest/download/christopher_sulfrian_resume.pdf) &nbsp; 
-[![](https://img.shields.io/badge/CSulfrian-2867B2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/csulfrian/) &nbsp;
-[![](https://img.shields.io/badge/CSulfrian-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/csulfrian)
+[![](https://img.shields.io/badge/PDF-Download-1abc9c?style=for-the-badge)](https://github.com/csulfrian/resume/releases/latest/download/christopher_sulfrian_resume.pdf) &nbsp;
+[![](https://img.shields.io/badge/CSulfrian-2867B2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/csulfrian/) &nbsp;[![](https://img.shields.io/badge/CSulfrian-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/csulfrian)
 
 # Christopher Sulfrian
+
+[chris@sulfrian.com](mailto:chris@sulfrian.com) // +1 (970) 218-3254 // from Erie, Colorado
 
 - Data Scientist with 4 years of experience developing production-ready Python code and building machine learning models 
 for real-world applications
@@ -11,12 +12,9 @@ for real-world applications
 - Comprehensive knowledge of manufacturing and industrial processes, and of applying machine learning techniques for 
 optimization of those processes
 
-
-[chris@sulfrian.com](mailto:chris@sulfrian.com) // +1 (970) 218-3254 // from Erie, Colorado
-
 ## Professional Experience
 
-### Python/Django Developer - Vapor Propulsion Labs (VPL), _November 2022 - Present_
+### Python Developer - Vapor Propulsion Labs, _November 2022 - Present_
 
 - Designed, implemented, and launched two cloud-based Bill of Materials Generators - one for Bosch eBike Systems and 
 one for 3X3 hubs (Django, Python, Docker, PostgreSQL, Google Compute Engine, Google Cloud Storage, Django AllAuth)
