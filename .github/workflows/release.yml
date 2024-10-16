@@ -28,7 +28,7 @@ jobs:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
 #          tag_name: ${{ github.ref }}
 #          release_name: Release ${{ github.ref }}
-          automatic_release_tag: true
+          automatic_release_tag: Release ${{ github.ref }}
           draft: false
           prerelease: false
           files: ./christopher_sulfrian_resume.pdf
